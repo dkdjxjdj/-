@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # --- KİŞİSEL BİLGİLERİN ---
-TOKEN = "8339947987:AAG1ITZKKumasLJqCvDMtjjwlL45HwP-GYo"  # Senin Bot Token'ın
-ADMIN_ID = 8534191173  # Senin Kullanıcı ID'n
+TOKEN = ""
+ADMIN_ID =""
 
 # Veri tabanı (Geçici hafıza)
 user_data = {} 
